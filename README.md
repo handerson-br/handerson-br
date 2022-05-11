@@ -28,16 +28,12 @@
 
 ##
 <div>
-<img align="right" height="150" style="border-radius:50px;" src="https://i.gifer.com/Mfoe.mp4">
+<gif align="right" height="150" style="border-radius:50px;" src="https://i.gifer.com/Mfoe.mp4">
 </div>
 
 ### 📫 Contact me:
-- E-mail: <a href='mailto:handersonbr@yahoo.com'>handersonbr@yahoo.com</a>
+- E-mail: <a href='mailto:handerson.cge1@live.com'>handerson.cge1@live.com</a>
 <div> 
   <a href="https://www.linkedin.com/in/handersonbr1990/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
 </div>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/dinoaqui/dinoaqui"></a>
-</p>
