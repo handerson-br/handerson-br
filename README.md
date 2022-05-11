@@ -28,7 +28,7 @@
 
 ##
 <div>
-<gif align="right" height="150" style="border-radius:50px;" src="https://i.gifer.com/Mfoe.mp4">
+<img align="right" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7H3TmCFYlzrR8btOl6R6SOueKVinAqrsqQ&usqp=CAU">
 </div>
 
 ### 📫 Contact me:
