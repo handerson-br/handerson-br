@@ -7,7 +7,7 @@
 - 🔭 I am currently working at <b>Collegio Panorama</b>.
 - 🌱 I am currently learning <b>Python</b>, <b>Pandas</b>, <b>Postgres</b>, <b>Javascript</b> and <b>React</b>.
 - 💻 I'm working on <b>Linux</b>, <b>Debian</b>, <b>Servers</b>, <b>ChromeOS</b> and <b>Networks</b>.
-- 💬 Ask me about <b>Operating Systems</b>, <b>Cloud Systems</b> and <b>Educational Systems!</b>.
+- 💬 Ask me about <b>Operating Systems</b>, <b>Cloud Systems</b> and <b>Educational Systems</b>!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=handerson-br&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
